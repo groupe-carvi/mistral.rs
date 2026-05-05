@@ -1,0 +1,16 @@
+name: mistral.rs
+id: ari:cloud:compass:e489ce12-950f-402e-8d4e-940f40450fe5:component/d3e19302-71bb-4ac1-ba88-53bb212819ec/6db92307-b390-4f57-ad39-4f6ee9c270fd
+description: Fast, flexible LLM inference
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/groupe-carvi/mistral.rs
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
